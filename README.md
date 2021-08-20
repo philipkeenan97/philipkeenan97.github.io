@@ -8,7 +8,7 @@ The design is based off Massively by HTML5 UP
 
 Credits:
 
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
 
 	Icons:
